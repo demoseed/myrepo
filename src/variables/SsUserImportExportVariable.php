@@ -49,7 +49,7 @@ class SsUserImportExportVariable
     {
         $result = "And away we go to the Twig template...";
         if ($optional) {
-            $result = "I'm feeling optional today...";
+            $result = "I'm";
         }
         return $result;
     }
